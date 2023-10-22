@@ -11,6 +11,7 @@ Through these important queries, I have accomplished the following:
 And Many More....
 
 Then Visualization of covid19 report is done in Tableau.
+
 In the visualization protofolio, we can see total cases, total deaths, and total cures with respect to states on the x-axis and population on the y-axis.
 
 Link:- https://public.tableau.com/app/profile/mahesh.ratnaparkhe/viz/Covid19_India_Report/Dashboard1#1
