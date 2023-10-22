@@ -1,5 +1,6 @@
 # Covid19_India Data Exploration and Visualization
 
+1.
 In analysis of the COVID-19 India dataset, I have conducted a series of crucial SQL queries to extract valuable insights and generate important tables as a result. These queries were essential for structuring and interpreting the data effectively.
 
 Through these important queries, I have accomplished the following:
@@ -10,11 +11,12 @@ Through these important queries, I have accomplished the following:
 5. Joining Tables
 And Many More....
 
+2.
 Then Visualization of covid19 report is done in Tableau.
 
 In the visualization protofolio, we can see total cases, total deaths, and total cures with respect to states on the x-axis and population on the y-axis.
 
-Click on the below link to find out more..
+Click on the below link to find out more...
 https://public.tableau.com/app/profile/mahesh.ratnaparkhe/viz/Covid19_India_Report/Dashboard1#1
 
 
