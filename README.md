@@ -10,11 +10,10 @@ Through these important queries, I have accomplished the following:
 4. Joining Tables
 
 # 2. Data Visualization
-Then Visualization of covid19 report is done in Tableau.
+The COVID-19 report is visualized using Tableau.
 
-In the visualization protofolio, we can see total cases, total deaths, and total cures with respect to states on the x-axis and population on the y-axis.
+In the visualization portfolio, we observe the total cases, total deaths, and total recoveries categorized by states on the horizontal (x-axis) and population on the vertical (y-axis).
 
-Check out:- 
-https://public.tableau.com/app/profile/mahesh.ratnaparkhe/viz/Covid19_India_Report/Dashboard1#1
+Check out:- https://public.tableau.com/app/profile/mahesh.ratnaparkhe/viz/Covid19_India_Report/Dashboard1#1
 
 
