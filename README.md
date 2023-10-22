@@ -7,8 +7,7 @@ Through these important queries, I have accomplished the following:
 1. Data Selection and Filtering
 2. Aggregation
 3. Grouping and Summarization
-4. Creating Derived Tables
-5. Joining Tables
+4.. Joining Tables
 
 # 2. Data Visualization
 Then Visualization of covid19 report is done in Tableau.
