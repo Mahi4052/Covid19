@@ -1,7 +1,7 @@
 # Covid19_India Data Exploration and Visualization
 
 # 1. Data Exploration
-In analysis of the COVID-19 India dataset, I have conducted a series of crucial SQL queries to extract valuable insights and generate important tables as a result. These queries were essential for structuring and interpreting the data effectively.
+In exploration of the COVID-19 India dataset, I have conducted a series of crucial SQL queries to extract valuable insights and generate important tables as a result. These queries were essential for structuring and interpreting the data effectively.
 
 Through these important queries, I have accomplished the following:
 1. Data Selection and Filtering
