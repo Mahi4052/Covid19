@@ -14,6 +14,9 @@ The COVID-19 report is visualized using Tableau.
 
 In the visualization portfolio, we observe the total cases, total deaths, and total recoveries categorized by states on the horizontal (x-axis) and population on the vertical (y-axis).
 
-Check out:- https://public.tableau.com/app/profile/mahesh.ratnaparkhe/viz/Covid19_India_Report/Dashboard1#1
+Check out my protofolio:- https://public.tableau.com/app/profile/mahesh.ratnaparkhe/viz/Covid19_India_Report/Dashboard1#1
+
+![Dashboard 1](https://github.com/Mahi4052/Covid19_India/assets/95848665/f645c5af-e5ad-4c7a-890a-02b4e8f19cc7)
+
 
 
